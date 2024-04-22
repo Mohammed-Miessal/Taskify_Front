@@ -25,7 +25,7 @@ export default  function Component() {
           <Dropdown.Item>Settings</Dropdown.Item>
           <Dropdown.Item>Earnings</Dropdown.Item>
           <Dropdown.Divider />
-          <Dropdown.Item>Sign out</Dropdown.Item>
+          <Dropdown.Item  >Sign out</Dropdown.Item>
         </Dropdown>
         <Navbar.Toggle />
       </div>
